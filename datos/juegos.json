@@ -1,0 +1,38 @@
+[
+  {
+    "titulo": "Catan",
+    "editorial": "Devir",
+    "anio": 1995,
+    "jugadoresMin": 3,
+    "jugadoresMax": 4,
+    "categorias": ["Estrategia", "Negociación"],
+    "disponible": true
+  },
+  {
+    "titulo": "Carcassonne",
+    "editorial": "Devir",
+    "anio": 2000,
+    "jugadoresMin": 2,
+    "jugadoresMax": 5,
+    "categorias": ["Estrategia", "Colocación de losetas"],
+    "disponible": true
+  },
+  {
+    "titulo": "Dixit",
+    "editorial": "Libellud",
+    "anio": 2008,
+    "jugadoresMin": 3,
+    "jugadoresMax": 6,
+    "categorias": ["Creatividad", "Cartas"],
+    "disponible": false
+  },
+  {
+    "titulo": "Ticket to Ride",
+    "editorial": "Days of Wonder",
+    "anio": 2004,
+    "jugadoresMin": 2,
+    "jugadoresMax": 5,
+    "categorias": ["Estrategia", "Familia"],
+    "disponible": true
+  }
+]

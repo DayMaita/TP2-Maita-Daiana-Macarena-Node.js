@@ -1,0 +1,27 @@
+CATÁLOGO DE JUEGOS DE MESA
+===========================
+Cantidad de juegos: 4
+
+1. Catan
+   Editorial y año: Devir - 1995
+   Participantes: 3 a 4
+   Categorías: Estrategia, Negociación
+   Estado: Disponible
+
+2. Carcassonne
+   Editorial y año: Devir - 2000
+   Participantes: 2 a 5
+   Categorías: Estrategia, Colocación de losetas
+   Estado: Disponible
+
+3. Dixit
+   Editorial y año: Libellud - 2008
+   Participantes: 3 a 6
+   Categorías: Creatividad, Cartas
+   Estado: No disponible
+
+4. Ticket to Ride
+   Editorial y año: Days of Wonder - 2004
+   Participantes: 2 a 5
+   Categorías: Estrategia, Familia
+   Estado: Disponible
